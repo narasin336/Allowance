@@ -1,0 +1,39 @@
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe.config
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.pdb
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Allowance.resources
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.exe
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.pdb
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.login.resources
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUserName.resources
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.ChartbyEmployee.resources
+\\192.168.4.7\mis\SourceProgramC#\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUser.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe.config
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Allowance.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.ChartbyEmployee.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.login.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUser.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUserName.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\EOD_Allowance\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csproj.GenerateResource.Cache
+D:\MyProject\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe.config
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.exe
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.pdb
+D:\MyProject\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.exe
+D:\MyProject\EOD_Allowance\EOD_Allowance\bin\Debug\EOD_Allowance.pdb
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csprojResolveAssemblyReference.cache
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Allowance.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.ChartbyEmployee.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.login.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.Properties.Resources.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUser.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.SearchUserName.resources
+D:\MyProject\EOD_Allowance\EOD_Allowance\obj\Debug\EOD_Allowance.csproj.GenerateResource.Cache
